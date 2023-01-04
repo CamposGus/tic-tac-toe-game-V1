@@ -142,7 +142,7 @@ public class ProgramGame {
 				ganhou = true;
 			} else if (jogada >9) {
 				System.out.println("O jogo deu velha!");
-
+				ganhou = true;
 
 			}
 		}
